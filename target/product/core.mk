@@ -33,9 +33,7 @@ PRODUCT_PACKAGES += \
     DeskClock \
     DocumentsUI \
     DownloadProviderUi \
-    Email \
     ExactCalculator \
-    Exchange2 \
     ExternalStorageProvider \
     FusedLocation \
     InputDevices \
@@ -44,10 +42,8 @@ PRODUCT_PACKAGES += \
     Launcher2 \
     ManagedProvisioning \
     MtpDocumentsProvider \
-    PicoTts \
     PacProcessor \
     libpac \
-    PrintSpooler \
     PrintRecommendationService \
     ProxyHandler \
     QuickSearchBox \
